@@ -1,0 +1,22 @@
+{
+  "name": "project-3-team-1g",
+  "version": "1.0.0",
+  "description": "package version 1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CSCE331-Fall2024/project-3-team-1g.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CSCE331-Fall2024/project-3-team-1g/issues"
+  },
+  "homepage": "https://github.com/CSCE331-Fall2024/project-3-team-1g#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
